@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/annak1104/viso-map-app/static/css/main.cfbd88ba.css",
+    "main.js": "/annak1104/viso-map-app/static/js/main.de41fd3d.js",
+    "static/js/787.3b9100ad.chunk.js": "/annak1104/viso-map-app/static/js/787.3b9100ad.chunk.js",
+    "index.html": "/annak1104/viso-map-app/index.html",
+    "main.cfbd88ba.css.map": "/annak1104/viso-map-app/static/css/main.cfbd88ba.css.map",
+    "main.de41fd3d.js.map": "/annak1104/viso-map-app/static/js/main.de41fd3d.js.map",
+    "787.3b9100ad.chunk.js.map": "/annak1104/viso-map-app/static/js/787.3b9100ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfbd88ba.css",
+    "static/js/main.de41fd3d.js"
+  ]
+}
